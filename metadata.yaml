@@ -1,0 +1,83 @@
+_repo: Astounding-Stories-of-Super-Science-January-1930_41481
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Meek, S. P. (Sterner St. Paul)
+    alias: Meek, Sterner St. Paul
+    birthdate: 1894
+    deathdate: 1972
+    gutenberg_agent_id: '25130'
+    url: http://www.gutenberg.org/2009/agents/25130
+    wikipedia: http://en.wikipedia.org/wiki/S.P._Meek
+  - agent_name: Rousseau, Victor
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '41194'
+    url: http://www.gutenberg.org/2009/agents/41194
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Rousseau_Emanuel
+  - agent_name: Cummings, Ray
+    alias: Cummings, Raymond King
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '8443'
+    url: http://www.gutenberg.org/2009/agents/8443
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Cummings
+  - agent_name: Pelcher, Anthony
+    birthdate: 1897
+    deathdate: &id001 1981
+    gutenberg_agent_id: '41198'
+    url: http://www.gutenberg.org/2009/agents/41198
+  - agent_name: Tench, C. V.
+    alias: Tench, Charles Victor
+    birthdate: 1892
+    deathdate: 1963
+    gutenberg_agent_id: '41197'
+    url: http://www.gutenberg.org/2009/agents/41197
+  - agent_name: Staley, M. L.
+    gutenberg_agent_id: '41196'
+    url: http://www.gutenberg.org/2009/agents/41196
+  - agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+covers:
+- cover_type: archival
+  image_path: 41481-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Bates, Harry
+    aliases:
+    - Bates, Hiram Gilmore
+    - Winter, H. G.
+    birthdate: 1900
+    deathdate: *id001
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction -- Periodicals'
+- !lcsh 'Science fiction, American -- Periodicals'
+- !lcc 'PN'
+tableOfContents: "The Beetle Horde / Victor Rousseau\r\nThe Cave of Horror / Captain\
+  \ S. P. Meek\r\nPhantoms of Reality / Ray Cummings\r\nThe Stolen Mind / M. L. Staley\r\
+  \nCompensation / C. V. Tench\r\nTanks / Murray Leinster\r\nInvisible Death / Anthony\
+  \ Pelcher."
+title: Astounding Stories of Super-Science January 1930
+url: http://www.gutenberg.org/ebooks/41481
